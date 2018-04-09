@@ -7,3 +7,5 @@ this is a remote change
 a second local change
 
 and a test for syncing
+
+edit from external program
